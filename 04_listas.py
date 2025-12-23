@@ -79,7 +79,7 @@ print(my_new_list)
 my_new_list.sort()
 print(my_new_list)
 
-
+print(my_new_list[1:3])
 
 # Esto no es una lista
 my_list = 'Hola Python'
