@@ -20,7 +20,7 @@ print("Este es el valor de:", my_bool_variable)
 print(len(mi_variable))
 
 # Variables en una sola linea
-name, surname, alias, age = "Jona", "Alfaro", "Braulio0821", 24
+name, surname, alias, age = "Jona", "Alfaro", "Virgi02i87167", 24
 print("Me llamo:", name, surname, "Mi edad es", age, "Y mi alias es:", alias)
 
 # Inputs
